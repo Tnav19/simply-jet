@@ -1,0 +1,11 @@
+[
+ {
+   "id": 1,
+   "first_name": "John",
+   "last_name": "Doe",
+   "email": "john.doe@example.com",
+   "alternate_email": "john.alt@example.com",
+   "password": "hashedpassword",
+   "age": 25
+ }
+]
